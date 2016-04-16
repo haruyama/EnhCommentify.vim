@@ -779,7 +779,7 @@ function s:GetFileTypeSettings(ft)
 		\ 'muttrc\|nsis\|ora\|pcap\|pine\|po\|procmail\|'.
 		\ 'psf\|ptcap\|r\|radiance\|ratpoison\|readline\remind\|'.
 		\ 'ruby\|screen\|sed\|sm\|snnsnet\|snnspat\|snnsres\|spec\|'.
-		\ 'squid\|terminfo\|tidy\|tli\|tsscl\|vgrindefs\|vrml\|'.
+		\ 'squid\|terminfo\|tidy\|tli\|toml\|tsscl\|vgrindefs\|vrml\|'.
 		\ 'wget\|wml\|xf86conf\|xmath\)$'
 	let b:ECcommentOpen = '#'
 	let b:ECcommentClose = ''
